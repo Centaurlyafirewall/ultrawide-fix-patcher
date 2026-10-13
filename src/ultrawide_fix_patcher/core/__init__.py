@@ -1,0 +1,1 @@
+"""Host runtime for the ultrawide-fix-patcher plugin architecture."""
