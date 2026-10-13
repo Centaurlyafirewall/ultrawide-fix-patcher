@@ -1,0 +1,1 @@
+"""Abstract contracts plugins must satisfy."""
